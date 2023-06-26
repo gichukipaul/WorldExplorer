@@ -2,17 +2,17 @@
 
 WorldExplorer is an iOS app built with UIKit and MVVM architecture, integrated with GraphQL using ApolloGraphql. It allows users to explore continents, countries, and country details fetched from the Countries GraphQL API. The app provides a seamless and intuitive user experience for discovering and learning about different countries worldwide.
 
-![Dark Mode Screenshot 1](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png)
+<img src="[screenshots/light_mode_1.png](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png)" alt="Dark Mode Screenshot 1" width="350" />
 
-![Dark Mode Screenshot 2](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot2.png)
+<img src="[screenshots/dark_mode_1.png](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot2.png)" alt="Dark Mode Screenshot 2" width="350" />
 
-![Dark Mode Screenshot 3](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1.png)
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1.png" alt="Dark Mode Screenshot 3" width="350" />
 
-![Light Mode Screenshot 1](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png)
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="350" />
 
-![Light Mode Screenshot 2](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen2.png)
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen2.png" alt="Light Mode Screenshot 2" width="350" />
 
-![Light Mode Screenshot 3](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen3png.png)
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen3png.png" alt="Light Mode Screenshot 3" width="350" />
 
 ## Features
 
