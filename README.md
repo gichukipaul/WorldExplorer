@@ -2,17 +2,20 @@
 
 WorldExplorer is an iOS app built with UIKit and MVVM architecture, integrated with GraphQL using ApolloGraphql. It allows users to explore continents, countries, and country details fetched from the Countries GraphQL API. The app provides a seamless and intuitive user experience for discovering and learning about different countries worldwide.
 
-<img src="[screenshots/light_mode_1.png](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png)" alt="Dark Mode Screenshot 1" width="350" />
+<div style="display:flex; justify-content:center;">
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png" alt="Dark Mode Screenshot 1" width="350" style="margin-right: 10px;/>
 
-<img src="[screenshots/dark_mode_1.png](https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot2.png)" alt="Dark Mode Screenshot 2" width="350" />
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot2.png" alt="Dark Mode Screenshot 2" width="350" style="margin-right: 10px;/>
 
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1.png" alt="Dark Mode Screenshot 3" width="350" />
+</div>
+<div style="display:flex; justify-content:center;">
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="350" style="margin-right: 10px;/>
 
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="350" />
-
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen2.png" alt="Light Mode Screenshot 2" width="350" />
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen2.png" alt="Light Mode Screenshot 2" width="350" style="margin-right: 10px;/>
 
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen3png.png" alt="Light Mode Screenshot 3" width="350" />
+</div>
 
 ## Features
 
