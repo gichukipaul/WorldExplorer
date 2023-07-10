@@ -16,5 +16,4 @@ class ViewControllerViewModelTests: XCTestCase {
     func testInitialData() throws {
         XCTAssertEqual(vm.numberOfContinents(), 0)
     }
-    
 }
