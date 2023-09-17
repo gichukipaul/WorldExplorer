@@ -9,7 +9,7 @@ WorldExplorer is an iOS app built with UIKit and MVVM architecture, integrated w
 
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1.png" alt="Dark Mode Screenshot 3" width="220" />
 </div>
-<br>
+<br><br>
 <div style="display:flex; justify-content:center;">
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="220" style="margin-right: 20px;"/>
 
