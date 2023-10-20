@@ -20,7 +20,7 @@ WorldExplorer is an iOS app built with UIKit and MVVM architecture, integrated w
 
 ## Features
 
-- View a list of continents and their basic information.
+- View the continents and their basic information.
 - Select a continent to see a list of countries within that continent.
 - Select a country to view detailed information, including its capital, currency, and more.
 - Supports both light and dark modes for a visually appealing experience.
@@ -47,7 +47,6 @@ The app is configured to fetch data from the following GraphQL endpoint:
 
 - API Endpoint: [https://countries.trevorblades.com/graphql](https://countries.trevorblades.com/graphql)
 
-You can modify the endpoint in the source code if needed.
 
 ## Contributing
 
