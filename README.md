@@ -1,6 +1,6 @@
 # WorldExplorer
 
-WorldExplorer is an iOS app built with UIKit and MVVM architecture, integrated with GraphQL using ApolloGraphql. It allows users to explore continents, countries, and country details fetched from the Countries GraphQL API. The app provides a seamless and intuitive user experience for discovering and learning about different countries worldwide.
+WorldExplorer is an iOS app designed with simplicity in mind. It uses UIKit and follows the MVVM architectural pattern, making it easy to maintain and extend. The app connects to a GraphQL API using ApolloGraphql, enabling users to explore continents, countries, and detailed country information effortlessly. It offers a user-friendly experience, making it fun to learn about different countries worldwide."
 
 <div style="display:flex; justify-content:center;">
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png" alt="Dark Mode Screenshot 1" width="220" style="margin-right: 20px;"/>
