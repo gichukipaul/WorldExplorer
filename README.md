@@ -3,19 +3,19 @@
 WorldExplorer is an iOS app designed with simplicity in mind. It uses UIKit and follows the MVVM architectural pattern, making it easy to maintain and extend. The app connects to a GraphQL API using ApolloGraphql, enabling users to explore continents, countries, and detailed country information effortlessly. It offers a user-friendly experience, making it fun to learn about different countries worldwide.
 
 <div style="display:flex; justify-content:center;">
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png" alt="Dark Mode Screenshot 1" width="220" style="margin-right: 20px;"/>
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="220" style="margin-right: 25px;"/>
 
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot2.png" alt="Dark Mode Screenshot 2" width="220" style="margin-right: 20px;"/>
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen2.png" alt="Light Mode Screenshot 2" width="220" style="margin-right: 25px;"/>
 
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1.png" alt="Dark Mode Screenshot 3" width="220" />
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen3png.png" alt="Light Mode Screenshot 3" width="220" />
 </div>
 <br><br>
 <div style="display:flex; justify-content:center;">
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="220" style="margin-right: 20px;"/>
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1png.png" alt="Dark Mode Screenshot 1" width="220" style="margin-right: 25px;"/>
 
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen2.png" alt="Light Mode Screenshot 2" width="220" style="margin-right: 20px;"/>
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot2.png" alt="Dark Mode Screenshot 2" width="220" style="margin-right: 25px;"/>
 
-<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen3png.png" alt="Light Mode Screenshot 3" width="220" />
+<img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen%20Shot1.png" alt="Dark Mode Screenshot 3" width="220" />
 </div>
 
 ## Features
