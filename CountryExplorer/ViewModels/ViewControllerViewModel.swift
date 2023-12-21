@@ -7,7 +7,7 @@
 
 import Foundation
 
-class ViewControllerViewModel {
+final class ViewControllerViewModel {
     private let session = ApolloSession.shared.client
     
     var continents:[GetContinentsQuery.Data.Continent] = [] {

@@ -8,7 +8,7 @@
 import Foundation
 import Apollo
 
-class CountriesViewModel {
+final class CountriesViewModel {
     
     private var session = ApolloSession.shared.client
     
