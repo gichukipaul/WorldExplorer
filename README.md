@@ -1,6 +1,6 @@
-# WorldExplorer
+# World Explorer
 
-WorldExplorer is an iOS app designed with simplicity in mind. It uses UIKit and follows the MVVM architectural pattern, making it easy to maintain and extend. The app connects to a GraphQL API using ApolloGraphql, enabling users to explore continents, countries, and detailed country information effortlessly. It offers a user-friendly experience, making it fun to learn about different countries worldwide.
+World Explorer is an iOS app designed with simplicity in mind. It uses UIKit for the UI and follows the MVVM architectural pattern, making it easy to maintain and add features. The app connects to a GraphQL API using ApolloGraphql, enabling users to explore continents, countries, and detailed country information effortlessly. It offers a user-friendly experience, making it fun to learn about different countries worldwide.
 
 <div style="display:flex; justify-content:center;">
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="220" style="margin-right: 25px;"/>
@@ -21,9 +21,9 @@ WorldExplorer is an iOS app designed with simplicity in mind. It uses UIKit and 
 ## Features
 
 - View the continents and their basic information.
-- Select a continent to see a list of countries within that continent.
+- Select a continent to see a list of countries within it.
 - Select a country to view detailed information, including its capital, currency, and more.
-- Supports both light and dark modes for a visually appealing experience.
+- Supports both light and dark modes for accessibility and a visually appealing experience.
 
 ## Technologies Used
 
@@ -39,7 +39,7 @@ To run the app locally and explore the continents, countries, and their details,
 1. Clone the repository: `git clone https://github.com/gichukipaul/WorldExplorer.git`
 2. Open the project in Xcode.
 3. Install any necessary dependencies using Cocoapods or your preferred dependency manager.
-4. Build and run the app on the iOS Simulator or a connected device.
+4. Build and run the app on the iOS Simulator or a connected iOS device.
 
 ## Configuration
 
@@ -50,7 +50,7 @@ The app is configured to fetch data from the following GraphQL endpoint:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+Contributions are welcome! If you have any suggestions, bug reports, and/or feature requests, please open an issue or submit a pull request.
 
 ## License
 
