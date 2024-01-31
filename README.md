@@ -1,6 +1,5 @@
 # World Explorer
-
-World Explorer is an iOS app designed with simplicity in mind. It uses UIKit for the UI and follows the MVVM architectural pattern, making it easy to maintain and add features. The app connects to a GraphQL API using ApolloGraphql, enabling users to explore continents, countries, and detailed country information effortlessly. It offers a user-friendly experience, making it fun to learn about different countries worldwide.
+World Explorer is an iOS app designed with simplicity in mind. It uses UIKit for the UI and follows the MVVM architectural pattern, making it easy to maintain and add features. The app connects to a GraphQL API using the ApolloGraphql client, enabling users to explore continents, countries, and detailed country information effortlessly. It offers a user-friendly experience, making learning about different countries worldwide fun.
 
 <div style="display:flex; justify-content:center;">
 <img src="https://github.com/gichukipaul/WorldExplorer/blob/master/Simulator%20Screen1.png" alt="Light Mode Screenshot 1" width="220" style="margin-right: 25px;"/>
