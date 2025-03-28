@@ -22,7 +22,7 @@ World Explorer is an iOS app designed with simplicity in mind. It uses UIKit for
 - View the continents and their information.
 - Select a continent to see a list of countries within it.
 - Select a country to view detailed information, including its capital, currency, and more.
-- Supports both light and dark modes for accessibility and a visually appealing experience.
+- It supports both light and dark modes for accessibility and a visually appealing experience.
   
 ## Technologies Used
 - GraphQL: A query language for APIs that enables efficient data retrieval.
